@@ -1,4 +1,4 @@
-const data = [
+
     {
         "id": 1,
         name: 'Lemon Meringue',
@@ -18,3 +18,6 @@ const data = [
         type: cake
     }
 ];
+
+module.exports = data; 
+

@@ -1,23 +1,23 @@
-
+const data = [
     {
-        "id": 1,
+        id: 1,
         name: 'Lemon Meringue',
         icing: false,
-        type: pie
+        type: 'pie'
     },
     {
-        "id": 2,
+        id: 2,
         name: 'Carrot Cake',
         icing: true,
-        type: cake
+        type: 'cake'
     },
     {
-        "id": 3,
+        id: 3,
         name: 'Devils Food Cake',
         icing: true,
-        type: cake
+        type: 'cake'
     }
 ];
 
-module.exports = data; 
+module.exports = data;
 
